@@ -5,7 +5,9 @@
   ============================-->
 <header id="header" class="fixed-top" style="border-bottom:2px solid #240e29">
     <div class="container">
-
+    <div class="float-left">
+            <a href=""><img src="img/logo.jpg" width="150"></a>
+        </div>
         <nav class="main-nav float-left d-none d-lg-block">
             <ul>
                 <li class="active"><a href="#intro"><strong>INICIO</strong></a></li>
@@ -61,10 +63,9 @@
 
                 <div class="col-lg-6 content order-lg-1 order-2">
                     <p>
-                        Mi compromiso y misi&oacute;n es ayudar a mis clientes a estar permanentemente en <strong>"La
-                            cresta de la
-                            ola tecnologica".</strong> Te doy la mano para que siempre estes a la ultima,
-                        sin grandes inversiones ¿Quieres probar?
+                    Preparo una versión inicial del trabajo a realizar y mediante la 
+                    interacción continua con el cliente, voy aplicando las 
+                    <strong>sucesivas mejoras y cambios</strong> que van surgiendo.  ¿Quieres probar?
                     </p>
 
                     <div class="icon-box wow fadeInUp">
@@ -100,9 +101,10 @@
                 <div class="col-lg-6 wow fadeInUp " style="padding-top:200px">
 
                     <p>
-                        Utilizo <strong>tecnologias de desarrollo agíl,</strong> para estar siempre a la escucha de tus
-                        ideas de mejora. Lo que mas
-                        me importa es adaptarme a tus necesidades. Mi misión principal es entenderte más y mejor.
+                    Centrado en el desarrollo de software empresarial, y todo lo que rodea a la 
+                    necesidad informática de la empresa, mi experiencia me permite conocer con 
+                    mayor  facilidad <strong>las necesidades de los clientes</strong>, proponer y suministrar
+                     el producto o servicio adecuado.
                     </p>
                 </div>
             </div>
@@ -173,7 +175,7 @@
         <div class="container">
             <header class="section-header">
                 <h3>Lenguajes que hablo</h3>
-                <p>CSS3, HTML5, BOOTSTRAP4, JavaScript, jQUERY, PHP, MYSQL, MVC
+                <p>CSS3, SCSS, HTML5, BOOTSTRAP4, JavaScript, jQUERY, AJAX, VUE.JS, PHP, LARAVEL, MYSQL, MVC
                 </p>
 
             </header>

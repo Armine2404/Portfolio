@@ -6,13 +6,16 @@
   ============================-->
 <header id="header" class="fixed-top" style="border-bottom:2px solid #240e29">
     <div class="container">
-        <nav class="main-nav float-left d-none d-lg-block">
+        <div class="float-left">
+            <a href=""><img src="img/logo.jpg" width="150"></a>
+        </div>
+        <nav class="main-nav float-right d-none d-lg-block">
             <ul>
                 <li class="active"><a href="#intro"><strong>START</strong></a></li>
                 <li><a href="#about"><strong>ABOUT</strong> </a></li>
                 <li><a href="#services"><strong>SOLUTIONS</strong></a></li>
                 <li><a href="#contact"><strong>CONTACT</strong></a></li>
-                <li class="float-right"><a href="spanish.php">ES</a></li>
+                <li><a href="spanish.php">ES</a></li>
             </ul>
         </nav><!-- .main-nav -->
     </div>
@@ -59,12 +62,10 @@
 
                 <div class="col-lg-6 content order-lg-1 order-2">
                     <p>
-                        My commitment and mission are to help my clients to be permanently on
-                        <strong>"The crest of the technological wave"</strong>. I give you my hand so that you are
-                        always up to
-                        date,
-                        without large investments. Do you
-                        want to try?
+                    I prepare an initial version of the work to be done 
+                    and through<strong> continuous interaction with the client,</strong>
+                    I apply the successive improvements and changes that arise. Do you
+                    want to try?
                     </p>
 
                     <div class="icon-box wow fadeInUp">
@@ -99,10 +100,8 @@
                 <div class="col-lg-6 wow fadeInUp " style="padding-top:100px">
 
                     <p>
-                        I use <strong>agile development technologies,</strong> to always be listening to your
-                        improvement ideas. What
-                        else
-                        I care about adapting to your needs. My main mission is to understand you more and better.
+                    Focused on the development of business software, and everything that surrounds the company's computing need, 
+                    my experience allows me to more easily understand <strong>the needs of customers,</strong> propose and supply the right product or service.
                     </p>
                 </div>
             </div>
@@ -168,7 +167,7 @@
         <div class="container">
             <header class="section-header">
                 <h3>LANGUAGES I SPEEK</h3>
-                <p>CSS3, HTML5, BOOTSTRAP4, JavaScript, jQUERY, PHP, MYSQL, MVC
+                <p>CSS3, SCSS, HTML5, BOOTSTRAP4, JavaScript, jQUERY, AJAX, VUE.JS, PHP, LARAVEL, MYSQL, MVC
                 </p>
 
             </header>
